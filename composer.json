@@ -20,7 +20,7 @@
                 "Nepnepz\\Breadcrumb\\BreadcrumbServiceProvider"
             ],
             "aliases": {
-                "breadcrumb": "Nepnepz\\Breadcrumb\\Breadcrumb"
+                "Breadcrumb": "Nepnepz\\Breadcrumb\\Breadcrumb"
             }
         }
     }
