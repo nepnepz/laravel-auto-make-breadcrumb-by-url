@@ -75,7 +75,7 @@
             return $breadcrumb;
         }
     
-        public static function makeJsonLD($path){
+        public static function makeJSONLD($path){
     
             $url=$path;
             //remove if amp page
