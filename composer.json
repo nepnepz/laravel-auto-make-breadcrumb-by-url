@@ -1,6 +1,6 @@
 {
     "name": "nepnepz/breadcrumb",
-    "description": "Laravel breadcrumb Helper",
+    "description": "Laravel make auto breadcrumb by url",
     "license": "MIT",
     "authors": [
         {
