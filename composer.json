@@ -1,0 +1,22 @@
+{
+    "name": "nepnepz/breadcrumb",
+    "description": "Laravel breadcrumb Helper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ealihanip",
+            "email": "ealihanip@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nepnepz\\Breadcrumb\\BreadcrumbServiceProvider"
+            ],
+            "aliases": {
+                "breadcrumb": "Nepnepz\\Breadcrumb\\Breadcrumb"
+            }
+        }
+    }
+}
