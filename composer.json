@@ -9,6 +9,11 @@
         }
     ],
     "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nepnepz\\Breadcrumb\\": "src/"
+        }
+    },
     "extra": {
         "laravel": {
             "providers": [
@@ -20,3 +25,4 @@
         }
     }
 }
+
