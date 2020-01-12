@@ -1,6 +1,6 @@
 <?php
 
-namespace Nepnepz\Breadcrumb\Providers;
+namespace Nepnepz\Breadcrumb;
 
 use Illuminate\Support\ServiceProvider;
 
